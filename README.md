@@ -2,6 +2,8 @@ To do
 =====
 
 * Second round of simplified DXR UI refresh wireframes
+* Churn through 400 old emails.
+
 
 Done
 ====
@@ -9,6 +11,8 @@ Done
 2013-08-07
 ----------
 
+* Considered SaltStack for part of Captain Shove.
+* Registered for Summit
 * [My Fifth Elephant keynote](https://hasgeek.tv/fifthelephant/2013-2/631-what-happens-when-firefox-crashes) is up!
 * Made sure today's DXR instance deployment worked properly.
 * Posted a patch to the shell script around dxr-build so failed builds don't [end up in a deploy](https://bugzilla.mozilla.org/show_bug.cgi?id=886463).
