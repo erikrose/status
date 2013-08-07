@@ -10,13 +10,13 @@ Done
 2013-08-06
 ----------
 
-* Reviewed `MXR malware-hosting <https://bugzilla.mozilla.org/show_bug.cgi?id=628033>`_ fix.
+* Reviewed [MXR malware-hosting](https://bugzilla.mozilla.org/show_bug.cgi?id=628033>) fix. Fubar is merging and deploying it.
 * Ran the WebDev Extravaganza.
     * peep makes your downloads trustworthy,
         * so we can use PyPI (and its new CDN, which makes it reasonably reliable).
         * You don't have to trust authors.
         * So it's like a "pip freeze" with teeth.
-* Chased `spurious DXR build publishing <https://bugzilla.mozilla.org/show_bug.cgi?id=886463>`_ that happened despite a build failure.
+* Chased [spurious DXR build publishing](https://bugzilla.mozilla.org/show_bug.cgi?id=886463) that happened despite a build failure.
 * Invited non-employees to WebDev Extravaganza.
 
 2013-08-05
