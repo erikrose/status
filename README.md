@@ -2,6 +2,7 @@ To do
 =====
 
 * Second round of simplified DXR UI refresh wireframes
+* Fix the shell script around dxr-build so failed builds don't [end up in a deploy](https://bugzilla.mozilla.org/show_bug.cgi?id=886463).
 
 
 Done
