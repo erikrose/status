@@ -3,14 +3,25 @@ To do
 
 * Second round of simplified DXR UI refresh wireframes
 * Churn through 400 old emails.
+* Copy new basic search to other wireframe pages. Put up a draft.
 
 
 Done
 ====
 
+2013-08-08
+----------
+
+* Solved the last few problems in the rev. 2 DXR UI mockups.
+* Churned through 100 more old emails.
+* Talked with Lars about the state of RabbitMQ in Socorro. Discussed the future of reprocessing.
+
 2013-08-07
 ----------
 
+* Theorized about a cause for some [`derived` searches not working](https://bugzilla.mozilla.org/show_bug.cgi?id=885977).
+* Churned through 100 old emails.
+* Gave rhelmer a crash course on my in-vitro deployment IoC framework.
 * Considered SaltStack for part of Captain Shove.
 * Registered for Summit
 * [My Fifth Elephant keynote](https://hasgeek.tv/fifthelephant/2013-2/631-what-happens-when-firefox-crashes) is up!
