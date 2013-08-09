@@ -1,13 +1,16 @@
 To do
 =====
 
-* Second round of simplified DXR UI refresh wireframes
 * Churn through 400 old emails.
-* Copy new basic search to other wireframe pages. Put up a draft.
 
 
 Done
 ====
+
+2013-08-09
+----------
+
+* Polished up rev. 2 wireframes and [https://wiki.mozilla.org/DXR_UI_Refresh](published them) for feedback.
 
 2013-08-08
 ----------
