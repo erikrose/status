@@ -13,6 +13,7 @@ Done
 * Polished up rev. 2 wireframes and [https://wiki.mozilla.org/DXR_UI_Refresh](published them) for feedback.
 * Solicited feedback from the usual suspects on IRC and from dev-static-analysis@.
 * Tried to find a "panacea" advanced search which doesn't necessitate fancy parsing.
+* Rendered feedback on willkg for Ricky.
 
 2013-08-08
 ----------
