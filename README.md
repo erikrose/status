@@ -13,6 +13,8 @@ Done
 2013-08-12
 ----------
 
+* [Revised dxr.sh patch](https://bugzilla.mozilla.org/show_bug.cgi?id=886463) to exit with status 2 so the TBPL tree turns red instead of orange.
+* Discussed Captain Shove's need for a custom Shove with solarce.
 * Chewed through another 100 old emails. 169 to go!
 * Asked jcranmer to ping catlee or rails to review the dxr.sh patch that should keep DXR's index from getting corrupted on failed builds.
 * Made [https://bugzilla.mozilla.org/show_bug.cgi?id=705745](an old bug) go away.
