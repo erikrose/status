@@ -2,10 +2,20 @@ To do
 =====
 
 * Churn through 400 old emails.
+* Can we make the filter pop-up turn to "advanced" and dim itself when the user does something so crazy we can't a make useful characterization of it? Is there even such a thing?
+    function:foo regexp:bar
+* Should we change from mixterms to maxterms to be like Google?
 
 
 Done
 ====
+
+2013-08-12
+----------
+
+* Chewed through another 100 old emails. 169 to go!
+* Asked jcranmer to ping catlee or rails to review the dxr.sh patch that should keep DXR's index from getting corrupted on failed builds.
+* Made [https://bugzilla.mozilla.org/show_bug.cgi?id=705745](an old bug) go away.
 
 2013-08-09
 ----------
