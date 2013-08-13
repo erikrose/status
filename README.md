@@ -6,6 +6,7 @@ To do
     function:foo regexp:bar
 * Should we change from mixterms to maxterms to be like Google?
 * Should I go to MozFest?
+* Review omniglot: VCS integration for DXR.
 
 
 Done
@@ -14,6 +15,9 @@ Done
 2013-08-13
 ----------
 
+* Got Schalk started on the new DXR UI.
+* Research talk on [dynamic analysis of JS](https://air.mozilla.org/test-and-cure-your-javascript-blues-with-jalangi/)
+* Started Shiva The Deployer as a separate project. Added issues. Inducted rhelmer into my insanity.
 * [DXR will no longer deploy broken builds](https://bugzilla.mozilla.org/show_bug.cgi?id=886463).
 * Wrote a [justification of Captain Shove](https://wiki.mozilla.org/Websites/Captain_Shove#Justification), because I was having doubts myself.
 
