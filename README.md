@@ -5,14 +5,23 @@ To do
 * Can we make the filter pop-up turn to "advanced" and dim itself when the user does something so crazy we can't a make useful characterization of it? Is there even such a thing?
     function:foo regexp:bar
 * Should we change from mixterms to maxterms to be like Google?
+* Should I go to MozFest?
 
 
 Done
 ====
 
+2013-08-13
+----------
+
+* [DXR will no longer deploy broken builds](https://bugzilla.mozilla.org/show_bug.cgi?id=886463).
+* Wrote a [justification of Captain Shove](https://wiki.mozilla.org/Websites/Captain_Shove#Justification), because I was having doubts myself.
+
 2013-08-12
 ----------
 
+* solarce persuaded me [https://github.com/mozilla/captain/issues/4#issuecomment-22528497](back to my original) position on Shove.
+* Participated in the Compensation discussion.
 * [Revised dxr.sh patch](https://bugzilla.mozilla.org/show_bug.cgi?id=886463) to exit with status 2 so the TBPL tree turns red instead of orange.
 * Discussed Captain Shove's need for a custom Shove with solarce.
 * Chewed through another 100 old emails. 169 to go!
