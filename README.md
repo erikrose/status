@@ -6,16 +6,22 @@ To do
     function:foo regexp:bar
 * Should we change from mixterms to maxterms to be like Google?
 * Should I go to MozFest?
-* Review omniglot: VCS integration for DXR.
 
 
 Done
 ====
 
+2013-08-14
+----------
+
+* Began reviewing omniglot: VCS integration for DXR.
+* Began design of Shiva The Deployer's shape. Determined that [Shiva itself cannot be the top-level entrypoint into deployment](https://github.com/erikrose/shiva/issues/1#issuecomment-22663747).
+
+
 2013-08-13
 ----------
 
-* Got Schalk started on the new DXR UI.
+* Got Schalk started on the new DXR UI. First, we're going to rip out the useless splash page. We'll have to figure out where to put the browsing interface. Will it be hard to do what the wireframes say initially? Then we'll implement basic search. We'll create a `ui` branch and deploy all this on stage and see how people like it.
 * Research talk on [dynamic analysis of JS](https://air.mozilla.org/test-and-cure-your-javascript-blues-with-jalangi/)
 * Started Shiva The Deployer as a separate project. Added issues. Inducted rhelmer into my insanity.
 * [DXR will no longer deploy broken builds](https://bugzilla.mozilla.org/show_bug.cgi?id=886463).
