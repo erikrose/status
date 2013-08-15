@@ -11,12 +11,19 @@ To do
 Done
 ====
 
+2013-08-15
+----------
+
+* More reviewing of omniglot patch
+* Captain Shove meeting
+* More designing of Shiva's shape
+
 2013-08-14
 ----------
 
 * Began reviewing omniglot: VCS integration for DXR.
 * Began design of Shiva The Deployer's shape. Determined that [Shiva itself cannot be the top-level entrypoint into deployment](https://github.com/erikrose/shiva/issues/1#issuecomment-22663747).
-
+* Noticed http://collabedit.com/jbt8n, which is an Etherpad-alike with syntax highlighting.
 
 2013-08-13
 ----------
