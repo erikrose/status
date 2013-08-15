@@ -6,6 +6,8 @@ To do
     function:foo regexp:bar
 * Should we change from mixterms to maxterms to be like Google?
 * Should I go to MozFest?
+* If Lars hasn't finished the Rabbit stuff by the last day of August, make sure he's handed it off to me.
+* [Revise DXR's plugin API to require less boilerplate and fewer singletons](https://bugzilla.mozilla.org/show_bug.cgi?id=883363).
 
 
 Done
@@ -14,9 +16,19 @@ Done
 2013-08-15
 ----------
 
+* 1:1
 * More reviewing of omniglot patch
 * Captain Shove meeting
-* More designing of Shiva's shape
+* Figured out [Shiva's shape](https://github.com/erikrose/shiva/issues/1#issuecomment-22725248).
+
+Week Summary
+------------
+
+* [DXR no longer has a day of downtime when its index fails to build](https://bugzilla.mozilla.org/show_bug.cgi?id=886463).
+* Started Shiva The Deployer to factor our common deployment script functionality and make deployment more robust.
+* Finished [https://wiki.mozilla.org/DXR_UI_Refresh](DXR wireframes).
+* Got Schalk started on the new DXR UI. First, we're going to rip out the useless splash page. We'll have to figure out where to put the browsing interface. Will it be hard to do what the wireframes say initially? Then we'll implement basic search. We'll create a `ui` branch and deploy all this on stage and see how people like it.
+
 
 2013-08-14
 ----------
