@@ -8,10 +8,16 @@ To do
 * Should I go to MozFest?
 * If Lars hasn't finished the Rabbit stuff by the last day of August, make sure he's handed it off to me.
 * [Revise DXR's plugin API to require less boilerplate and fewer singletons](https://bugzilla.mozilla.org/show_bug.cgi?id=883363).
+* Consider esprima as a JS parser.
 
 
 Done
 ====
+
+2013-08-16
+----------
+
+* Reorganized Shiva code. Got commandline tool stubbed out. Eggified.
 
 2013-08-15
 ----------
