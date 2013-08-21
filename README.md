@@ -4,15 +4,34 @@ To do
 * Churn through 400 old emails.
 * Can we make the filter pop-up turn to "advanced" and dim itself when the user does something so crazy we can't a make useful characterization of it? Is there even such a thing?
     function:foo regexp:bar
-* Should we change from mixterms to maxterms to be like Google?
+* Should we change from minterms to maxterms to be like Google?
 * Should I go to MozFest?
 * If Lars hasn't finished the Rabbit stuff by the last day of August, make sure he's handed it off to me.
 * [Revise DXR's plugin API to require less boilerplate and fewer singletons](https://bugzilla.mozilla.org/show_bug.cgi?id=883363).
 * Consider esprima as a JS parser.
+* Lead How to Avoid Burnout BoF at Summit. potch: "Don't let someone else win the Martyrdom Olympics". Laura is interested.
+* _all index: https://github.com/rhec/pyelasticsearch/issues/127
 
 
 Done
 ====
+
+2013-08-20
+----------
+
+* https://pypi.python.org/pypi/configobj/ is great! It's the ConfigParser rewrite I was going to do. Now I don't have to!
+* Reviewed https://github.com/mozilla/shove/pull/3/files.
+
+2013-08-19
+----------
+
+* Chased a pyelasticsearch bug Adrian ran into where he couldn't search all indices simultaneously.
+* Meetingsmeetingsmeetings
+
+2013-08-18
+----------
+
+* Started coding up Shiva's deployment framework and the command-line tool.
 
 2013-08-16
 ----------
