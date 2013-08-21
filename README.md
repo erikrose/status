@@ -21,6 +21,7 @@ Done
 
 * https://pypi.python.org/pypi/configobj/ is great! It's the ConfigParser rewrite I was going to do. Now I don't have to!
 * Reviewed https://github.com/mozilla/shove/pull/3/files.
+* [Switched to a console_scripts entrypoint in peep](https://github.com/erikrose/peep/issues/8), which might make it Windows-compatible.
 
 2013-08-19
 ----------
