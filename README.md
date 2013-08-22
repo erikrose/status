@@ -9,19 +9,27 @@ To do
 * If Lars hasn't finished the Rabbit stuff by the last day of August, make sure he's handed it off to me.
 * [Revise DXR's plugin API to require less boilerplate and fewer singletons](https://bugzilla.mozilla.org/show_bug.cgi?id=883363).
 * Consider esprima as a JS parser.
-* Lead How to Avoid Burnout BoF at Summit. potch: "Don't let someone else win the Martyrdom Olympics". Laura is interested.
+* Lead How to Avoid Burnout BoF at Summit. potch: "Don't let someone else win the Martyrdom Olympics". Laura is interested. Also, First International Symposium On Bikeshedding About Shit No One Is Ever Going To Fix. :-)
 * _all index: https://github.com/rhec/pyelasticsearch/issues/127
 
 
 Done
 ====
 
+2013-08-21
+----------
+
+* Confirmed my fix made peep work on Windows.
+* Triaged pyelasticsearch PRs. Merged a couple of small ones.
+
+
 2013-08-20
 ----------
 
 * https://pypi.python.org/pypi/configobj/ is great! It's the ConfigParser rewrite I was going to do. Now I don't have to!
 * Reviewed https://github.com/mozilla/shove/pull/3/files.
-* [Switched to a console_scripts entrypoint in peep](https://github.com/erikrose/peep/issues/8), which might make it Windows-compatible.
+* [Switched to a console_scripts entrypoint in peep](https://github.com/erikrose/peep/issues/8), which should make it Windows-compatible.
+* With Adrian, designed a new Socorro ES schema for raw+processed dumps.
 
 2013-08-19
 ----------
