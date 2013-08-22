@@ -11,6 +11,11 @@ To do
 * Consider esprima as a JS parser.
 * Lead How to Avoid Burnout BoF at Summit. potch: "Don't let someone else win the Martyrdom Olympics". Laura is interested. Also, First International Symposium On Bikeshedding About Shit No One Is Ever Going To Fix. :-)
 * _all index: https://github.com/rhec/pyelasticsearch/issues/127
+* Distribution.from_location, .version, .project_name. content_type = pip.mimetypes.guess_type(path)[0]
+  Or maybe I can avoid untarring each archive again and just reparse the version and package name out of reqs.txt. Every downloaded filename has to be package_name + version + some archive extension.
+  Then comment on https://bugzilla.mozilla.org/show_bug.cgi?id=894493.
+* Review https://github.com/mozilla/shove/pull/4.
+* Write a failing test against some kind of playground environment to expose Thrift failures. Once that's failing, we can do experiments to figure out what's wrong. We can probably get Thrift installed on Mango, another HBase cluster. Whose fault is it? Zeus? Python? Java?
 
 
 Done
@@ -21,7 +26,10 @@ Done
 
 * Confirmed my fix made peep work on Windows.
 * Triaged pyelasticsearch PRs. Merged a couple of small ones.
-
+* The hash output in peep now includes the actual version numbers of packages,
+  so you can just paste it straight into your requirements.txt.
+* Helped rhelmer switch Socorro's deployment to peep.
+* Don't indent the hash output so you don't have to dedent when pasting into reqs.txt.
 
 2013-08-20
 ----------
